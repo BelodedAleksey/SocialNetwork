@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "133603853184",
+    "firebase_url": "https://poster-2e9cd.firebaseio.com",
+    "project_id": "poster-2e9cd",
+    "storage_bucket": "poster-2e9cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133603853184:android:29b44a1947fe26c8",
+        "android_client_info": {
+          "package_name": "beloded.alexey.com.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133603853184-3it4dpskrfc6pgc08mfm50ctkaeehq75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "beloded.alexey.com.socialnetwork",
+            "certificate_hash": "cf191d0247d72f4513d5454dd7f2ca9b640515ce"
+          }
+        },
+        {
+          "client_id": "133603853184-8rov74kv100uo64o0c1hbmgdo9pemejb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNO6qLDremiqPSgjonNd7hWgAro5qy3_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133603853184-8rov74kv100uo64o0c1hbmgdo9pemejb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
